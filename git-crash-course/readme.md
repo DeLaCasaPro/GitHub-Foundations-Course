@@ -1,4 +1,5 @@
 ## Commits
+git add <file>
 
 ## Branches
 
